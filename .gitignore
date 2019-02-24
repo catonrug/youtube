@@ -4,5 +4,6 @@
 *.part
 *.ytdl
 *.webm
+.fuse_*
 file.log
 
